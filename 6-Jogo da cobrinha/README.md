@@ -4,6 +4,12 @@
 
 # :snake:
 
+### Tecnologias usadas:
+
+- HTML5
+- CSS3
+- JAVASCRITP
+
 
 
 
